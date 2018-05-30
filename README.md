@@ -1,10 +1,8 @@
-# DatingApp
+# Rowers Meet Dating Website 
 
-mysql -h mysql-305project.cwetgjbvvo5t.us-west-2.rds.amazonaws.com -u root -P 3306 -p
+Rowers Meet™ is a dating website developed specifically for rowers. This site uses a front end built using HTML5/CSS/Javascript. The backend is devleoped primarily in Java and uses a cloud-based Database solution using Amazon Web Services.
 
-Database: mysql-305project.cwetgjbvvo5t.us-west-2.rds.amazonaws.com
-Username: root
-Password: password
+
 
 
 ## Primary Contributers:
